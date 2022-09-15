@@ -14,6 +14,8 @@ EDA consists basically of making numbers express an image. That's perfect for pr
 
 <div align="center"><img src="data_and_images/3d_dots.png" width=75%></div>
 
+<div align="center"><img src="data_and_images/correlation_data.png" width=75%></div>
+
 <div align="center"><img src="data_and_images/wine_dots_correlation.png" width=75%></div>
 
 <div align="center"><img src="data_and_images/quality.png" width=75%></div>
