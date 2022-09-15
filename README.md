@@ -62,6 +62,6 @@ So it goes on...
 
 ### Machine learning model
 
-This project use three neural network models and analysis comparatively the efficiency among them. **For the DAata Science process, this is one of most vital procediments.** <p><font color="red"><b>Here we will use neural networks for linear regression</b></font></p>
+This project use three neural network models and comparatively analysis the efficiency among them. **For the Data Science process, this is one of most vital procediments.** Creating and analysing the result of different models it's a undisputed step of the machine learning paradigm.
 
 
