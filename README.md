@@ -12,13 +12,13 @@ This project has incredible approaches about data analysis in machine learning t
 
 EDA consists basically of making numbers express an image. That's perfect for presentations where one may need visual understanding of data! In this project I use a lot of codes from differents libraries that permit us to see what numbers are too much confusing to say.
 
-<div align="center"><img src="data_and_images/3d_dots.png" width=75%></div>
+<div align="left"><img src="data_and_images/quality.png" width=65%></div>
+
+<div align="right"><img src="data_and_images/3d_dots.png" width=65%></div>
 
 <div align="center"><img src="data_and_images/correlation_data.png" width=75%></div>
 
-<div align="center"><img src="data_and_images/wine_dots_correlation.png" width=75%></div>
-
-<div align="center"><img src="data_and_images/quality.png" width=75%></div>
+<div align="center"><img src="data_and_images/wine_dots_correlation.png" width=75%></div
 
 <div align="center"><img src="data_and_images/candles.png" width=75%></div>
 
