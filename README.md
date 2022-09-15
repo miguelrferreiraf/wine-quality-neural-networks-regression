@@ -68,8 +68,8 @@ This project use three neural network models and comparatively analysis the effi
 print(f'Not gonna put it here again, check it out the archive with the codes!)
 ```
 
-<div align="left"><img src=https://thumbs.gfycat.com/IdleIlliterateAsianporcupine-size_restricted.gif width=45%></div>
-
 ### RMSProp Optmization
+
+Optmization functions are awesome to boost the speed of the training of the model instead of only gradient descent optmizer. Recently I read the most of winning algorithms of kaggle competitions uses optmization methods.  Here we use RMSProp
 
 
