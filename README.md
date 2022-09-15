@@ -35,7 +35,7 @@ That produces:
 
 Well, I'm not going to show all code lines that produce a good EDA of a dataset, for it coud be a stealing of several joyful moments of you checking out the code by yourself. Yay...
 
-<div align="center"><img src="data_and_images/wine_dots_correlation.png" width=55%><i>Correlation dots</i></div>
+<div align="center"><img src="data_and_images/wine_dots_correlation.png" width=55%><p align="center"><i>Correlation dots</i></p></div>
 
 <div align="center"><img src="data_and_images/3d_dots.png" width=65%>3D correlation among three labels</div>
 
