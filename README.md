@@ -6,7 +6,22 @@
 
 Who doesn't like a good wine, isn't it? Me, I don't drink acohol 😬😑. What a douche! But someone has to remember the bar story in the other day! But guess what: even machine learning algorithms like wine. 
 
-This project has incredible approaches about data analysis in machine learning technologies. It was one of the funniest to code I've ever wrote. **It consists in a a neural network for linear regression that can preditcs wine quality through chemical analysis of the wine**. Let's check it out.
+This project has incredible approaches about data analysis in machine learning technologies. It was one of the funniest to code I've ever wrote. **It consists in a a neural network for linear regression that can preditcs wine quality through chemical analysis of the wine**. These chemical compounds are:
+
+- Fixed acidity;
+- Volatile acidity;
+- Citric acid;
+- Residual sugar;
+- Chlorides;
+- Free sulfurdioxide;
+- Total sulfur dioxide;
+- Density;
+- pH;
+- Sulphates;
+- Alcohol;
+- Quality.
+
+Let's check it out.
 
 ### EDA (Exploratory Data Analysis) 📊📉 
 
