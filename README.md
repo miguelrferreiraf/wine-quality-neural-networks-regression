@@ -62,6 +62,6 @@ So it goes on...
 
 ### Machine learning model
 
-This project use three neural network models and analysis comparatively the efficiency among them. **For the DAata Science process, this is one of most vital procediments.** 
+This project use three neural network models and analysis comparatively the efficiency among them. **For the DAata Science process, this is one of most vital procediments.** <p><font color="red"><b>Here we will use neural networks for linear regression</b></font></p>
 
 
