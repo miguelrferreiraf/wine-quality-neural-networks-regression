@@ -64,4 +64,10 @@ So it goes on...
 
 This project use three neural network models and comparatively analysis the efficiency among them. **For the Data Science process, this is one of most vital procediments.** Creating and analysing the result of different models it's a undisputed step of the machine learning paradigm.
 
+```
+print(f'Not gonna put it here again, check it out the archive with the codes!)
+```
+
+### RMSProp Optmization
+
 
