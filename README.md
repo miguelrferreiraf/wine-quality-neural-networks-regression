@@ -6,4 +6,12 @@
 
 Who doesn't like a good wine, isn't it? Me, I don't drink acohol 😬😑. What a douche! But someone has to remember the bar story in the other day! But guess what: even machine learning algorithms like wine. 
 
+This project has incredible approaches about data analysis in machine learning technologies. It was one of the funniest to code I've ever wrote. Let's check it out.
+
+### EDA (Exploratory Data Analysis) 📊📉 
+
+EDA consists basically of making numbers express an image. That's perfect for presentations where one may need visual understanding of data!
+
+
+
 
