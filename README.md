@@ -21,6 +21,10 @@ This project has incredible approaches about data analysis in machine learning t
 - Alcohol;
 - Quality.
 
+The dataset will looks like this:
+
+<div align="center><img src=data_and_images/dataset.PNG width=80%></div>
+
 Let's check it out.
 
 ### EDA (Exploratory Data Analysis) 📊📉 
