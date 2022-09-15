@@ -31,13 +31,13 @@ sns.heatmap(dataset.corr(), annot=True, fmt='.2f', linewidths=2)
 ```
 That produces:
 
-<div align="center"><img src="data_and_images/correlation_data.png" width=75%><p align="center"><p align="center"><i>Tota correlation among chemical compounds of wine</i></p></div>
+<div align="center"><img src="data_and_images/correlation_data.png" width=75%><p align="center"><p align="center"><i>Total correlation among chemical compounds of wine</i></p></div>
 
 Well, I'm not going to show all code lines that produce a good EDA of a dataset, for it coud be a stealing of several joyful moments of you checking out the code by yourself. Yay...
 
 <div align="center"><img src="data_and_images/wine_dots_correlation.png" width=55%><p align="center"><i>Correlation dots</i></p></div>
 
-<div align="center"><img src="data_and_images/3d_dots.png" width=65%>3D correlation among three labels</div>
+<div align="center"><img src="data_and_images/3d_dots.png" width=65%><p align="center"><i>3D correlation among three labels</i></p></div>
 
 <div align="center"><img src="data_and_images/candles.png" width=75%></div>
 
