@@ -12,6 +12,17 @@ This project has incredible approaches about data analysis in machine learning t
 
 EDA consists basically of making numbers express an image. That's perfect for presentations where one may need visual understanding of data! In this project I use a lot of codes from differents libraries that permit us to see what numbers are too much confusing to say.
 
+Let's check it out some of the EDA nice codes Python provides for us and see what it brings us from the dataset. Like if we want isolate the quality label to provide the amount of wines per quality
+
+```
+import seaborn as sns
+sns.set(rc={'figure.figsize': (14, 8)})
+sns.countplot(dataset['quality'])
+
+```
+
+Which gives us:
+
 <div align="center"><img src="data_and_images/quality.png" width=65%><p align="center"><i>Number of wines per quality</i></p></div>
 
 <div align="center"><img src="data_and_images/correlation_data.png" width=75%></div>
