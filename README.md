@@ -1,4 +1,4 @@
-# 🍷 Analysing wine with neural networks and EDA <img src="https://cdn.dribbble.com/users/4973491/screenshots/14471351/final.gif" width=5%>
+# 🍷 Analysing wine with neural networks and EDA <img src="https://cdn.dribbble.com/users/4973491/screenshots/14471351/final.gif" width=9%>
 
 ## Project
 
