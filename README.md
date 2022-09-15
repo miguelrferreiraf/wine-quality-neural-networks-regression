@@ -68,6 +68,8 @@ This project use three neural network models and comparatively analysis the effi
 print(f'Not gonna put it here again, check it out the archive with the codes!)
 ```
 
+<div align="left"><img src=https://thumbs.gfycat.com/IdleIlliterateAsianporcupine-size_restricted.gif></div>
+
 ### RMSProp Optmization
 
 
