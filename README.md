@@ -58,12 +58,8 @@ Well, I'm not going to show all code lines that produce a good EDA of a dataset,
 
 <div align="center"><img src="data_and_images/3d_dots.png" width=65%><p align="center"><i>3D correlation among three labels</i></p></div>
 
-<div align="center"><img src="data_and_images/candles.png" width=75%></div>
+So it goes on...
 
-
-
-
-
-
+### Machine learning model
 
 
