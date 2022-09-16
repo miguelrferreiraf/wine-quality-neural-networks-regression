@@ -72,6 +72,6 @@ print(f'Not gonna put it here again, check it out the archive with the codes!)
 
 Optmization functions are awesome to boost the speed of the training of the model instead of only gradient descent optmizer. Recently I read the most of winning algorithms of kaggle competitions uses optmization methods.  Here we use RMSProp, that accumulate the gradient omly for the recent iterations, which provides lighter processing.
 
-Hope you enjoy reading the code:smile:!
+Hope you enjoy reading the [code](https://github.com/miguelrferreiraf/wine-quality-neural-networks-regression/blob/main/wine_quality_neural_networks_regression.ipynb):smile:!
 
 
