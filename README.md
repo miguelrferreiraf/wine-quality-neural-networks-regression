@@ -6,6 +6,7 @@
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ky7OoNKqDuX19LW1U9KiUr79EdP--9wU?usp=sharing#)
 
 Who doesn't like a good wine, isn't it? Me, I don't drink acohol 😬😑. What a douche! But someone has to remember the bar story in the other day! But guess what: even machine learning algorithms like wine. 
